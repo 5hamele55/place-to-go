@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/place-to-go/static/css/main.d7072436.chunk.css",
+    "main.js": "/place-to-go/static/js/main.5c2970ab.chunk.js",
+    "main.js.map": "/place-to-go/static/js/main.5c2970ab.chunk.js.map",
+    "runtime-main.js": "/place-to-go/static/js/runtime-main.42aec84d.js",
+    "runtime-main.js.map": "/place-to-go/static/js/runtime-main.42aec84d.js.map",
+    "static/js/2.84ebc37c.chunk.js": "/place-to-go/static/js/2.84ebc37c.chunk.js",
+    "static/js/2.84ebc37c.chunk.js.map": "/place-to-go/static/js/2.84ebc37c.chunk.js.map",
+    "static/js/3.a9e48b7d.chunk.js": "/place-to-go/static/js/3.a9e48b7d.chunk.js",
+    "static/js/3.a9e48b7d.chunk.js.map": "/place-to-go/static/js/3.a9e48b7d.chunk.js.map",
+    "index.html": "/place-to-go/index.html",
+    "static/css/main.d7072436.chunk.css.map": "/place-to-go/static/css/main.d7072436.chunk.css.map",
+    "static/js/2.84ebc37c.chunk.js.LICENSE.txt": "/place-to-go/static/js/2.84ebc37c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42aec84d.js",
+    "static/js/2.84ebc37c.chunk.js",
+    "static/css/main.d7072436.chunk.css",
+    "static/js/main.5c2970ab.chunk.js"
+  ]
+}
